@@ -45,5 +45,4 @@ Please cite the `BgNet` in your publications if it helps your research:
 }
 ```
 ## Reference
-[poolnet](https://github.com/backseason/PoolNet)
 [BBSNet](https://github.com/zyjwuyan/BBS-Net)
