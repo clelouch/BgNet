@@ -187,7 +187,7 @@ def test(test_loader, model, epoch, save_path):
             gt /= (gt.max() + 1e-8)
             image = image.cuda()
             _, _, res, _ = model(image)
-            res = F.interpolate(res[0], size=gt.shape, mode='bilinear', align_corners=True)
+            res = F.upsample(res[0], size=gt.shape, mode='bilinear', align_corners=False)
             res = res.data.cpu().numpy().squeeze()
             res = (res - res.min()) / (res.max() - res.min() + 1e-8)
             mae_sum += np.sum(np.abs(res - gt)) * 1.0 / (gt.shape[0] * gt.shape[1])

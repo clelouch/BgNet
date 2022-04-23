@@ -39,13 +39,13 @@ with torch.no_grad():
 
             # test first branch
             # res, edge, _, _ = model(image)
-            # res = F.interpolate(res, size=gt.shape, mode='bilinear', align_corners=True)
-            # edge_res = F.interpolate(edge, size=gt.shape, mode='bilinear', align_corners=True)
+            # res = F.upsample(res, size=gt.shape, mode='bilinear', align_corners=False)
+            # edge_res = F.upsample(edge, size=gt.shape, mode='bilinear', align_corners=False)
 
             # test second branch
             _, _, res, edge = model(image)
-            res = F.interpolate(res[0], size=gt.shape, mode='bilinear', align_corners=True)
-            edge_res = F.interpolate(edge[0], size=gt.shape, mode='bilinear', align_corners=True)
+            res = F.upsample(res[0], size=gt.shape, mode='bilinear', align_corners=False)
+            edge_res = F.upsample(edge[0], size=gt.shape, mode='bilinear', align_corners=False)
 
             res = res.data.cpu().numpy().squeeze()
             res = (res - res.min()) / (res.max() - res.min() + 1e-8)
