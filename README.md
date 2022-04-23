@@ -46,3 +46,4 @@ Please cite the `BgNet` in your publications if it helps your research:
 ```
 ## Reference
 [BBSNet](https://github.com/zyjwuyan/BBS-Net)
+[CPD](https://github.com/wuzhe71/CPD)
