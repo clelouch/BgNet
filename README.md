@@ -1,5 +1,5 @@
 # BgNet
-# [Boundary-guided Network for Camouflaged Object Detection](https://link.springer.com/article/10.1007%2Fs00521-021-06845-3)
+# [Boundary-guided Network for Camouflaged Object Detection](https://doi.org/10.1016/j.knosys.2022.108901)
 
 This repo. is an official implementation of the *BgNet* , which has been accepted in the journal *Knowledge-based systems, 2022*. 
 
