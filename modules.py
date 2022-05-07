@@ -153,7 +153,7 @@ class LM(nn.Module):
         out = F.relu(x + self.conv_res(out1 + out2))
         return out
 
-# Boundary-guided fusion module, pgar
+# Boundary-guided fusion module
 class BFM(nn.Module):
     def __init__(self, in_c, out_c, groups=8):
         super(BFM, self).__init__()
