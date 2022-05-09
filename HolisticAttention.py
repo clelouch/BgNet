@@ -10,7 +10,7 @@ def gkern(kernlen=16, nsig=3):
     interval = (2*nsig+1.)/kernlen
     x = np.linspace(-nsig-interval/2., nsig+interval/2., kernlen+1)
     
-    kern1d = np.diff(st.norm.cdf(x))    # scipy.stats.norm.cdf是正态分布累计概率密度函数
+    kern1d = np.diff(st.norm.cdf(x)) 
     
     kernel_raw = np.sqrt(np.outer(kern1d, kern1d))
     kernel = kernel_raw/kernel_raw.sum()
