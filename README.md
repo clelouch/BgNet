@@ -30,7 +30,7 @@ We provide the trained model file
 ([Res2Net](https://pan.baidu.com/s/1sHSPhGvQJszpN97stzuxFA)) [code:1fau]
 ([ResNet](https://pan.baidu.com/s/1DRis1YEsakb8ZXrSzOhtKQ)) [code:lzzo]
 
-The saliency maps are also available
+The prediction maps are also available
 ([Res2Net](https://pan.baidu.com/s/1Ug6_p8Uho9VMaIDc4Km5LA)) [code:qz6g]
 ([ResNet](https://pan.baidu.com/s/1l0GP516TqaYlK2aMHBvhNw)) [code:p7nq]
 
