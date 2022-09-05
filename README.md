@@ -20,9 +20,7 @@ OpenCV-Python
 ## Datasets
 Training and testing datasets are available at 
 
-([Baidu](https://pan.baidu.com/s/1v_Av_j88O4H-S2glVOQZQg)) [code:5p36]
-
-([Google](https://drive.google.com/file/d/1VS8qVUjC__4BZhB-13S3wHDWAs_-YFDI/view?usp=sharing))
+([Baidu](https://pan.baidu.com/s/1sJ8h8srJg0gmVE-kJLJ4og)) [code:q5e4]
 
 ## Training
 ```
