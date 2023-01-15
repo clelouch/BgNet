@@ -45,7 +45,7 @@ The prediction maps are also available
 Please cite the `BgNet` in your publications if it helps your research:
 ```
 @article{CHEN2022,
-  title = {Boundary-guided Network for Camouflaged Salient Object Detection},
+  title = {Boundary-guided Network for Camouflaged Object Detection},
   author = {Tianyou Chen and Jin Xiao and Xiaoguang Hu and Guofeng Zhang and Shaojie Wang},
   journal = {Knowledge-Based Systems},
   year = {2022},
