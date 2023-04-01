@@ -34,12 +34,15 @@ python train.py
  python test.py
 ```
 We provide the trained model file 
-([Res2Net](https://pan.baidu.com/s/1sHSPhGvQJszpN97stzuxFA)) [code:1fau]
-([ResNet](https://pan.baidu.com/s/1DRis1YEsakb8ZXrSzOhtKQ)) [code:lzzo]
+([Baidu Res2Net](https://pan.baidu.com/s/1sHSPhGvQJszpN97stzuxFA)) [code:1fau]
+([Baidu ResNet](https://pan.baidu.com/s/1DRis1YEsakb8ZXrSzOhtKQ)) [code:lzzo]
+
+([Google Res2Net](https://pan.baidu.com/s/1sHSPhGvQJszpN97stzuxFA)) [code:1fau]
+([Google ResNet](https://pan.baidu.com/s/1DRis1YEsakb8ZXrSzOhtKQ)) [code:lzzo]
 
 The prediction maps are also available
-([Res2Net](https://pan.baidu.com/s/1Ug6_p8Uho9VMaIDc4Km5LA)) [code:qz6g]
-([ResNet](https://pan.baidu.com/s/1l0GP516TqaYlK2aMHBvhNw)) [code:p7nq]
+([Res2Net](https://drive.google.com/file/d/1cTwLG0AiksPhE5QGX2mAc9S4Lm9vqkKK/view?usp=share_link))
+([ResNet](https://drive.google.com/file/d/1ttOVmsqwayiel_E5vY4wZK50gVb75hjv/view?usp=share_link))
 
 ## Citation
 Please cite the `BgNet` in your publications if it helps your research:
