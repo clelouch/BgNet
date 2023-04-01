@@ -37,12 +37,12 @@ We provide the trained model file
 ([Baidu Res2Net](https://pan.baidu.com/s/1sHSPhGvQJszpN97stzuxFA)) [code:1fau]
 ([Baidu ResNet](https://pan.baidu.com/s/1DRis1YEsakb8ZXrSzOhtKQ)) [code:lzzo]
 
-([Google Res2Net](https://pan.baidu.com/s/1sHSPhGvQJszpN97stzuxFA)) [code:1fau]
-([Google ResNet](https://pan.baidu.com/s/1DRis1YEsakb8ZXrSzOhtKQ)) [code:lzzo]
+([Google Res2Net](https://drive.google.com/file/d/1cTwLG0AiksPhE5QGX2mAc9S4Lm9vqkKK/view?usp=share_link))
+([Google ResNet](https://drive.google.com/file/d/1ttOVmsqwayiel_E5vY4wZK50gVb75hjv/view?usp=share_link))
 
 The prediction maps are also available
-([Res2Net](https://drive.google.com/file/d/1cTwLG0AiksPhE5QGX2mAc9S4Lm9vqkKK/view?usp=share_link))
-([ResNet](https://drive.google.com/file/d/1ttOVmsqwayiel_E5vY4wZK50gVb75hjv/view?usp=share_link))
+([Res2Net](https://pan.baidu.com/s/1qkLuLsD7binUryewYmVS4Q))[code:rbxb]
+([ResNet](https://pan.baidu.com/s/1XYPRHo-1cdNbydXTM2D2DQ))[code:uajy]
 
 ## Citation
 Please cite the `BgNet` in your publications if it helps your research:
